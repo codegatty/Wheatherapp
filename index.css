@@ -1,0 +1,55 @@
+.navbar-extended{
+    background-image: url('background1.jpg');
+    background-size: contain;
+}
+
+.btn-container{
+    display: flex;
+}
+
+.btn-container button{
+    flex: 1;
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+.deg-sym-main{
+    font-size:50px;
+    color: black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#city_name{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.card-extended{
+   box-shadow: 0px 5px 20px  rgba(0,0,0,0.3);
+   background-image: url('background1.jpg');
+}
+
+.card-text-extended{
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+
+.content{
+    font-weight: initial;
+    letter-spacing: initial;
+    font-weight: 600;
+}
+
+.btn-extended{
+    border-width: 1px!important;
+    border-color: black!important;
+    border-style: solid!important;
+}
+
+.search-bar-extended{
+    background-color: transparent!important;
+    outline: none!important;
+}
